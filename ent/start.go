@@ -4,7 +4,7 @@ import (
     "context"
     "log"
 
-    "test-ent/ent"
+    "entdemo/ent"
 
     _ "github.com/mattn/go-sqlite3"
 )

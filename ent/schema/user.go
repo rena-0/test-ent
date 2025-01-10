@@ -20,7 +20,7 @@ func (User) Fields() []ent.Field {
     }
 }
 
-// Edges of the User.
+// Edges of the User.tea
 func (User) Edges() []ent.Edge {
 	return nil
 }
